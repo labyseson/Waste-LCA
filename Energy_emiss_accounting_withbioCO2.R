@@ -1,3 +1,4 @@
+#Author: Bo Liu, UCLA
 
 #County-level calculation
 waste <- waste_all[c(4,5,6,15,23,24)]
