@@ -11,8 +11,6 @@ library(RColorBrewer)
 library(compare)
 
 
-#setwd("C:/Users/person/Dropbox/R related/GC")
-
 #import datasets
 waste_county_raw <- read.csv("./data/billionton_county_all/billionton_county_wastes.csv", stringsAsFactors=FALSE)
 ag_county_raw <- read.csv("./data/billionton_county_all/billionton_county_agriculture_basecase.csv", stringsAsFactors=FALSE)
