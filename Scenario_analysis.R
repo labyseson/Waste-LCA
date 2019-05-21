@@ -1,3 +1,4 @@
+#Author: Bo Liu, UCLA
 
 #reshape dataset 
 waste_scenario <- subset(waste_2, select = c(State, County, region, Waste_type, Feedstock, Prod_ww,
